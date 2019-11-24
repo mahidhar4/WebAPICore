@@ -1,3 +1,5 @@
+# Dotnet core Api 3.0 Sample
+
 # Use Command Prompt
 
 ## use `dotnet run` to run app
